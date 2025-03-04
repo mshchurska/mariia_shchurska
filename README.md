@@ -4,4 +4,4 @@ Usage
 Run the script:
 python app.py
 Enter two numbers.
-The program will display results for all operations.
+The program will display results for all operations
